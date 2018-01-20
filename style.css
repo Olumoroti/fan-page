@@ -1,0 +1,23 @@
+body{
+	text-align: center;
+	background: #000000;
+	color: #FFFFFF;
+	;
+
+}
+
+header{
+	border: 0.5em solid #FFDF00;
+	font-family: 'Supermercado One', cursive;
+}
+
+main ul {
+	list-style: none;
+	font-family: 'Montserrat', sans-serif;
+
+}
+
+main {
+	font-family: 'Montserrat', sans-serif;
+
+}
